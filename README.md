@@ -1,3 +1,12 @@
+Added Prop Type validation on React Burger App on ingredients - 
+1) Installed prop-types in terminal using npm install prop-types
+2) Imported the prop-types into the component from React
+3) Converted the ingredient function component  into a class function and extending it from React component
+4) Using render method we convert props toe this.props
+5) Finally, created a new prop-type object that contains the keys and requirements.
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
